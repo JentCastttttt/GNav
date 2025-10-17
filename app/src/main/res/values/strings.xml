@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GNav</string>
+    <string name="logged_toast">您已登录，请勿重复登录</string>
+    <string name="main_home">首页</string>
+    <string name="main_message">消息</string>
+    <string name="main_mine">我的</string>
+    <string name="go_login_page">跳转到登录页面</string>
+    <string name="logout">退出登录</string>
+    <string name="go_vip_page">跳转到Vip页面</string>
+    <string name="go_detail_page">跳转到详情页面</string>
+    <string name="go_setting_page">跳转到设置页面</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GNav</string>
+    <string name="logged_toast">You have logged in. Please do not log in again.</string>
+    <string name="main_home">Home</string>
+    <string name="main_message">Message</string>
+    <string name="main_mine">Mine</string>
+    <string name="go_login_page">Go Login Page</string>
+    <string name="logout">Logout</string>
+    <string name="go_vip_page">Go Vip Page</string>
+    <string name="go_detail_page">Go Detail Page</string>
+    <string name="go_setting_page">Go Setting Page</string>
+</resources>
