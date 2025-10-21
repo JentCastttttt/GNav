@@ -13,7 +13,7 @@ jetbrainsKotlinJvm = "2.2.0"
 navigationCompose = "2.9.1"
 gllNav = "1.0.2"
 ksp = "2.2.0-2.0.2"
-
+mavenPublishPlugin = "0.34.0"
 
 [libraries]
 
@@ -43,3 +43,4 @@ kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
 android-library = { id = "com.android.library", version.ref = "agp" }
+maven-publish-plugin = { id = "com.vanniktech.maven.publish", version.ref = "mavenPublishPlugin" }
