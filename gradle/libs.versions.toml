@@ -12,6 +12,7 @@ composeBom = "2024.09.00"
 jetbrainsKotlinJvm = "2.2.0"
 navigationCompose = "2.9.1"
 gllNav = "1.0.2"
+gllMVI = "1.0.0"
 ksp = "2.2.0-2.0.2"
 mavenPublishPlugin = "0.34.0"
 
@@ -36,6 +37,7 @@ gll-nav-processor = { module = "pub.gll:nav-processor", version.ref = "gllNav" }
 gll-nav-annotations = { module = "pub.gll:nav-annotations", version.ref = "gllNav" }
 gll-nav-api = { module = "pub.gll:nav-api", version.ref = "gllNav" }
 gll-nav = { module = "pub.gll:nav", version.ref = "gllNav" }
+gll-mvi = { module = "pub.gll:mvi", version.ref = "gllMVI" }
 [plugins]
 jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "jetbrainsKotlinJvm" }
 android-application = { id = "com.android.application", version.ref = "agp" }

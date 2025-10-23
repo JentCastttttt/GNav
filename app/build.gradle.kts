@@ -66,4 +66,5 @@ dependencies {
         ksp(libs.gll.nav.processor)
         implementation(libs.gll.nav)
     }
+    implementation(libs.gll.mvi)
 }
