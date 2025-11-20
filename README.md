@@ -8,6 +8,7 @@ highlight: a11y-dark
 ## 项目概述
 
 GNav 是一个基于 Jetpack Compose Navigation 的现代化导航框架，通过注解处理和自动化代码生成技术，彻底简化了 Compose 应用中的导航配置和管理。它不仅仅是一个工具库，更代表了一种全新的导航编程范式。  ** 项目地址： **  [GNav on GitHub](https://github.com/a765032380/GNav)
+GNav Multiplatform 第一版已开发完成。 ** 项目地址： **  [GNav Multiplatform on GitHub](https://github.com/a765032380/GNavMultiplatform)
 
 ## 核心价值
 
